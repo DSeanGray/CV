@@ -57,6 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **DJM Music**
+
 *Sales Trainer* (December 2016 - March 2017)
 
 - Transformed a previously reactive office administration team of 4 into a successful sales team billing £5000 per month
@@ -66,13 +67,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 **RSK Business Solutions** (August 2016 - December 2016)
+
 *IT Sales Executive*
 - Making 80 cold calls per day hunting for new business offering our service as a nearshore / offshore software development consultancy.
 - Meeting with potential clients to talk about their technical requirements and pass on development opportunities to our Technical Director to close.
 
 
 **Get Recruited** (February 2016 – August 2016)
+
 *Account Manager*
+
 As an account manager it is my role to manage the entire recruitment lifecycle for my clients, successfully placing the perfect candidate for the job across the commercial sector.
 
 - Following up with prospect leads and developing new business opportunities.
@@ -85,7 +89,9 @@ As an account manager it is my role to manage the entire recruitment lifecycle f
 
 
 **Vector Resourcing** (October 2014 – February 2016)
+
 *Resourcer and Trainee Recruitment Consultant*
+
 It was my role to work closely with the recruitment consultants to find and interview potential candidates for our technology and business change clients.
 An achievement I made with vector is successfully placing 11 people in technology based roles in one calendar month, a company record.
 
@@ -100,7 +106,9 @@ An achievement I made with vector is successfully placing 11 people in technolog
 
 
 **DJM Music** (June 2012 – September 2014)
+
 *Office Administrator / Purchasing Team*
+
 Handling customer service and sales enquiries on the phone, updating the e-commerce website images and copy, and assisting with purchasing product inventory in china.
 
 - Providing customer service and sales support on the phone for website and musical instrument queries.
