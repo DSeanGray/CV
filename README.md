@@ -6,6 +6,7 @@ I'm a junior full stack developer with 4 years experience in and IT sales and te
 My previous career has taught me to talk about complex or technical projects and ideas in a way that anyone i speak to can follow.
 
 
+<!--
 ## Skills
 
 #### This Skill
@@ -24,6 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+-->
 
 ## Education
 
@@ -56,9 +58,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**DJM Music**
+**DJM Music** (December 2016 - March 2017)
 
-*Sales Trainer* (December 2016 - March 2017)
+*Sales Trainer*  
 
 - Transformed a previously reactive office administration team of 4 into a successful sales team billing £5000 per month
 - Quickly built rapport with the new team and current management providing planned daily sales training in groups of 2 - 4
