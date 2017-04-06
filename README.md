@@ -1,10 +1,10 @@
 ## David Gray
 
-Hi my name is David.
+Hi my name is David. I'm a junior full stack developer with 4 years experience in and IT sales and technology recruitment.
 
-I'm a junior full stack developer with 4 years experience in and IT sales and technology recruitment.
 My previous career has taught me to talk about complex or technical projects and ideas in a way that anyone i speak to can follow.
 
+I am really keen to explore my future career as a developer. What draws me to technology and coding is the idea that the possibilities to create something are truly endless. I am driven by focussed and creative people with a desire to succeed in whatever it is they are pursuing.
 
 <!--
 ## Skills
@@ -62,10 +62,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 *Sales Trainer*  
 
-- Transformed a previously reactive office administration team of 4 into a successful sales team billing £5000 per month
-- Quickly built rapport with the new team and current management providing planned daily sales training in groups of 2 - 4
-- Assisted the Director with implementing a sales management and call logging system that integrated with the CRM system.
-- Rolled out a new business process using the updated system to the users in the office
+- Transformed a previously reactive team of 4 into a successful sales team billing £5000 per month
+- Quickly built rapport with the new team providing planned daily training in groups
+- Implemented a sales management and call logging system that integrated with the CRM system.
+- Rolled out new business processes for the updated system to all users
 
 
 **RSK Business Solutions** (August 2016 - December 2016)
