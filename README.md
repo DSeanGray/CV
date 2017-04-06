@@ -2,7 +2,7 @@
 
 Hi my name is David. I'm a junior full stack developer with 4 years experience in and IT sales and technology recruitment.
 
-My previous career has taught me to talk about complex or technical projects and ideas in a way that anyone i speak to can follow.
+My previous career has taught me to talk about complex or technical projects and ideas in a way that both technical and non-technical stakeholders can follow.
 
 I am really keen to explore my future career as a developer. What draws me to technology and coding is the idea that the possibilities to create something are truly endless. I am driven by focussed and creative people with a desire to succeed in whatever it is they are pursuing.
 
