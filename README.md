@@ -1,6 +1,10 @@
 ## David Gray
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Hi my name is David.
+
+I'm a junior full stack developer with 4 years experience in and IT sales and technology recruitment.
+My previous career has taught me to talk about complex or technical projects and ideas in a way that anyone i speak to can follow.
+
 
 ## Skills
 
@@ -34,9 +38,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+The ACM Guildford, Diploma, (2010 - 2012)
+- Business:                           Distinction
+- Performance:                        Distinction
+- Discipline:                         Distinction
+- Theory:                             Merit
+
+Mascalls School, GCSE, (2007 - 2009)
+- English Literature:				            A
+- English Language:				              C
+- Mathematics: 					                B
+- Additional Science:				            B
+- (ICT) Business & Communications:			A
+- Geography:					                  C
 
 #### Any other qualifications
 
