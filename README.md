@@ -29,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 to July 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
