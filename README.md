@@ -1,6 +1,6 @@
 # David Gray
 
-###<div style="text-align: right"><a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a></div>
+<div style="text-align: right"><a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a></div>
 
 
 Hi, my name is David.
