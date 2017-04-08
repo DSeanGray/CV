@@ -1,5 +1,9 @@
 ## David Gray
 
+<a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a>
+
+##
+
 Hi my name is David. I'm a junior full stack developer with 4 years experience in IT sales and technology recruitment.
 
 My previous career has taught me to talk about complex or technical projects and ideas in a way that both technical and non-technical stakeholders can follow.
@@ -27,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 -->
 
-## Education
+## <a name="#education">Education</a>
 
 #### Makers Academy (April 2017 to July 2017)
 
@@ -54,7 +58,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - (ICT) Business & Communications:			A
 - Geography:					                  C
 
-## Experience
+## <a name="#experience">Experience</a>
 
 **DJM Music** (December 2016 - March 2017)
 
@@ -124,7 +128,7 @@ Handling customer service and sales enquiries on the phone, updating the e-comme
 - Cycling
 - Reading
 
-## Contact
+## <a name="#contact">Contact</a>
 
 - <a href="https://github.com/DSeanGray">Github</a>
 - <a href="https://www.codewars.com/users/DSeanGray">Codewars</a>
