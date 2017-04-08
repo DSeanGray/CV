@@ -1,7 +1,4 @@
-## David Gray
-
-<a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a>
-##
+<h1>David Gray</h1> <div style="text-align: right"><a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a></div>
 
 Hi, my name is David.
 I'm a junior full stack developer with 4 years experience in IT sales and technology recruitment.
