@@ -1,10 +1,10 @@
 ## David Gray
 
 <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a>
-
 ##
 
-Hi my name is David. I'm a junior full stack developer with 4 years experience in IT sales and technology recruitment.
+Hi, my name is David.
+I'm a junior full stack developer with 4 years experience in IT sales and technology recruitment.
 
 My previous career has taught me to talk about complex or technical projects and ideas in a way that both technical and non-technical stakeholders can follow.
 
