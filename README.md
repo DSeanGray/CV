@@ -1,10 +1,10 @@
 ## David Gray
 
-Hi my name is David. I'm a junior full stack developer with 4 years experience in and IT sales and technology recruitment.
+Hi my name is David. I'm a junior full stack developer with 4 years experience in IT sales and technology recruitment.
 
 My previous career has taught me to talk about complex or technical projects and ideas in a way that both technical and non-technical stakeholders can follow.
 
-I am really keen to explore my future career as a developer. What draws me to technology and coding is the idea that the possibilities to create something are truly endless. I am driven by focussed and creative people with a desire to succeed in whatever it is they are pursuing.
+I am really keen to explore my future career as a developer. What draws me to technology and coding is the idea that there are endless possibilities to create something. I am driven by focussed and creative people with a desire to succeed in whatever it is they are pursuing.
 
 <!--
 ## Skills
@@ -53,8 +53,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Additional Science:				            B
 - (ICT) Business & Communications:			A
 - Geography:					                  C
-
-#### Any other qualifications
 
 ## Experience
 
@@ -117,3 +115,16 @@ Handling customer service and sales enquiries on the phone, updating the e-comme
 - Learning the basics of HTML and CSS to update our website via our custom CMS
 - A good understanding of all Microsoft office packages
 - Liaising with vendors and suppliers over the phone
+
+
+## Interests
+
+- Technology
+- Music and playing the guitar
+- Cycling
+- Reading
+
+## Contact
+
+- <a href="https://github.com/DSeanGray">Github</a>
+- <a href="https://www.codewars.com/users/DSeanGray">Codewars</a>
