@@ -1,6 +1,6 @@
-# David Gray
+# David Gray<p align="right"><a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a></p>
 
-<p align="right"><a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#contact">Contact</a></p>
+
 
 
 
